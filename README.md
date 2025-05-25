@@ -1,6 +1,6 @@
 ## 📁 Project Documentation Overview
 
-This repository supports the **RunVenture** fitness app, a prototype built with React.js that integrates Google Maps and Spotify to enhance the running experience. This repository includes five folders that document the full development process, from critique to concept to final delivery.
+This repository supports the RunVenture fitness app, a React.js prototype that integrates Google Maps and Spotify to enhance the running experience. It includes five folders documenting the full development process, from critique to concept to final delivery.
 
 ### 📂 Folder Structure
 
