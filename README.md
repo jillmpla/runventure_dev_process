@@ -1,6 +1,29 @@
 ## 📁 Project Documentation Overview
 
-This repository supports the RunVenture fitness app, a React.js prototype that integrates Google Maps and Spotify to enhance the running experience. It includes five folders documenting the full development process, from critique to concept to final delivery.
+This repository supports the **RunVenture fitness app**, a React.js prototype that integrates Google Maps and Spotify to enhance the running experience. It documents the full design and development process, from critique to concept to final delivery.
+
+---
+
+### 🔗 Live Code and Project Repository
+
+Explore the full code and implementation details here:  
+➡️ [RunVenture GitHub Repository](https://github.com/jillmpla/runventure)
+
+---
+
+### 📖 Case Study: From MapMyRun to RunVenture
+
+The project began with a detailed **design critique of MapMyRun.com**, where I identified usability issues, visual inconsistencies, and opportunities for improved user engagement.  
+Building on these insights, I developed the **RunVenture concept**—a fitness app designed to provide a more seamless running experience by integrating **Google Maps** for route planning and **Spotify** for music personalization.  
+
+This case study traces the project’s evolution:
+- **Critique & Concept** → defining goals, user needs, and feature direction  
+- **Wireframing & Early Testing** → static wireframes, concept testing, and feedback reports  
+- **Interactive Prototyping** → building in Figma, usability testing sessions, and iteration  
+- **Development & Implementation** → translating design into a working React.js prototype  
+- **Final Delivery** → presenting findings, outcomes, and the final app prototype  
+
+---
 
 ### 📂 Folder Structure
 
@@ -23,10 +46,6 @@ Each folder contains key artifacts from a distinct phase of the project:
 
 ---
 
-### 🔗 Live Code and Project Repository
+> 📌 These folders document the full design and development process, offering insight into the app’s evolution from **critique to concept to final product**.
 
-Explore the full code and implementation details here:  
-➡️ [RunVenture GitHub Repository](https://github.com/jillmpla/runventure)
-
-> 📌 These folders document the full design and development process, offering insight into the app’s evolution from concept to final product.
 
