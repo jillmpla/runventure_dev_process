@@ -6,7 +6,7 @@ Built with React.js and multiple APIs, RunVenture enhances the running experienc
 
 The final product delivers **five major feature enhancements** compared to MapMyRun.com, along with improved visual design and usability:
 
-- 🗺️ **Route Planning & Conditions** – interactive maps with difficulty, surface type, elevation, and traffic tags  
+- 🗺️ **Route Planning & Conditions** – interactive maps with difficulty, surface type, elevation, and traffic
 - 📍 **Live GPS Run Tracking** – real-time stats with integrated Google Maps  
 - 🎵 **Spotify Integration** – in-app music playback with playlist selection  
 - 🤝 **Social Challenges** – community-driven challenges with progress sharing  
@@ -14,9 +14,10 @@ The final product delivers **five major feature enhancements** compared to MapMy
 
 ---
 
-### 🚀 Try the Prototype
+### 🚀 React.js Prototype
 
 🔗 [RunVenture Live Prototype](https://runventureapp.com)  
+
 🔗 [Main GitHub Repository](https://github.com/jillmpla/runventure)
 
 - Use any email and any password to create a test account (no real authentication).  
