@@ -16,8 +16,8 @@ The final product delivers **five major feature enhancements** compared to MapMy
 
 ### 🚀 Try the Prototype
 
-Test the live app here:  
-🔗 [RunVenture Live Prototype](https://runventureapp.com)
+🔗 [RunVenture Live Prototype](https://runventureapp.com)  
+🔗 [Main GitHub Repository](https://github.com/jillmpla/runventure)
 
 - Use any email and any password to create a test account (no real authentication).  
 - Login info is stored locally in your browser for demo purposes only.  
@@ -54,7 +54,7 @@ Each folder contains key artifacts from a distinct phase of the project:
   Documents the results from the next round of testing with the interactive prototype. Includes the Usability Testing Report, details on the final Figma prototype, the testing handout, and the presentation slides used during the sessions.
 
 - **`4_Development_and_Implementation_with_Reactjs/`**  
-  Contains a direct link to the GitHub code repository.
+  Contains a direct link to the GitHub code repository - [Main GitHub Repository](https://github.com/jillmpla/runventure).
 
 - **`5_Final_Presentation/`**  
   Includes the final project presentation deck summarizing the design process, testing outcomes, and final product features.
@@ -62,5 +62,6 @@ Each folder contains key artifacts from a distinct phase of the project:
 ---
 
 > 📌 These folders document the full design and development process, offering insight into the app’s evolution from **critique to concept to final product**.
+
 
 
