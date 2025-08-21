@@ -13,10 +13,9 @@ Explore the full code and implementation details here:
 
 ### 📖 Case Study: From MapMyRun to RunVenture
 
-The project began with a detailed **design critique of MapMyRun.com**, where I identified usability issues, visual inconsistencies, and opportunities for improved user engagement.  
-Building on these insights, I developed the **RunVenture concept**—a fitness app designed to provide a more seamless running experience by integrating **Google Maps** for route planning and **Spotify** for music personalization.  
+The project began with a detailed **design critique of MapMyRun.com**, where I identified usability issues, visual inconsistencies, and opportunities for improved user engagement. Building on these insights, I developed the **RunVenture concept:** a fitness app designed to provide a more seamless running experience by integrating **Google Maps** for route planning and **Spotify** for music personalization.  
 
-This case study traces the project’s evolution:
+This case study traces the project's evolution:
 - **Critique & Concept** → defining goals, user needs, and feature direction  
 - **Wireframing & Early Testing** → static wireframes, concept testing, and feedback reports  
 - **Interactive Prototyping** → building in Figma, usability testing sessions, and iteration  
