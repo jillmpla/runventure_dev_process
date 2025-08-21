@@ -1,13 +1,21 @@
 ## 📁 Project Documentation Overview
 
-This repository supports the **RunVenture fitness app**, a React.js prototype that integrates Google Maps and Spotify to enhance the running experience. It documents the full design and development process, from critique to concept to final delivery.
+**RunVenture** is a lightweight fitness tracking app focused on running, inspired by MapMyRun.com. This project began with a detailed analysis of MapMyRun’s web and mobile platforms, followed by redesign, prototyping, usability testing, and full development in **React.js**. Built with React.js and multiple APIs, RunVenture enhances the running experience with route planning, live GPS tracking, Spotify integration, social challenges, training plans, and personalized run summaries. All user data is stored locally using **localStorage**, making it simple to test without a backend.
+
+The final product showcases **five major feature enhancements** compared to MapMyRun.com, along with improved visual design and usability.
 
 ---
 
-### 🔗 Live Code and Project Repository
+### 🚀 Try the Prototype
 
-Explore the full code and implementation details here:  
-➡️ [RunVenture GitHub Repository](https://github.com/jillmpla/runventure)
+Test the live app here:  
+🔗 [RunVenture Live Prototype](https://runventureapp.com)
+
+- Use any email and any password to create a test account (no real authentication).  
+- Login info is stored locally in your browser for demo purposes only.  
+- Once signed in, you’ll be redirected to a personalized dashboard to explore features like route tracking, training plans, and more.  
+
+⚠️ *Note: This is a prototype intended for demonstration and testing only. Do not use real credentials.*
 
 ---
 
