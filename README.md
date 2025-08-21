@@ -1,6 +1,10 @@
 ## 📁 Project Documentation Overview
 
-**RunVenture** is a lightweight fitness tracking app focused on running, inspired by MapMyRun.com. This project began with a detailed analysis of MapMyRun’s web and mobile platforms, followed by redesign, prototyping, usability testing, and full development in **React.js**. Built with React.js and multiple APIs, RunVenture enhances the running experience with route planning, live GPS tracking, Spotify integration, social challenges, training plans, and personalized run summaries. All user data is stored locally using **localStorage**, making it simple to test without a backend.
+**RunVenture** is a lightweight fitness tracking app focused on running, inspired by MapMyRun.com. This project began with a detailed analysis of MapMyRun’s web and mobile platforms, followed by redesign, prototyping, usability testing, and full development in **React.js**. 
+
+Built with React.js and multiple APIs, RunVenture enhances the running experience with route planning, live GPS tracking, Spotify integration, social challenges, training plans, and personalized run summaries. 
+
+All user data is stored locally using **localStorage**, making it simple to test without a backend.
 
 The final product showcases **five major feature enhancements** compared to MapMyRun.com, along with improved visual design and usability.
 
