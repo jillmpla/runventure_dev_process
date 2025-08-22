@@ -68,8 +68,6 @@ Each folder contains key artifacts from a distinct phase of the project:
 - **`5_Final_Presentation/`**  
   Includes the final project presentation deck summarizing the design process, testing outcomes, and final product features.
 
----
-
 > 📌 These folders document the full design and development process, offering insight into the app’s evolution from **critique to concept to final product**.
 
 
