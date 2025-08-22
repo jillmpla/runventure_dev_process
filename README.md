@@ -63,7 +63,7 @@ Each folder contains key artifacts from a distinct phase of the project:
   Documents the results from the next round of testing with the interactive prototype. Includes the Usability Testing Report, details on the final Figma prototype, the testing handout, and the presentation slides used during the sessions.
 
 - **`4_Development_and_Implementation_with_Reactjs/`**  
-  Contains a direct link to the GitHub code repository - [Main GitHub Repository](https://github.com/jillmpla/runventure).
+  Contains a direct link to the main GitHub code repository - [Main GitHub Repository](https://github.com/jillmpla/runventure).
 
 - **`5_Final_Presentation/`**  
   Includes the final project presentation deck summarizing the design process, testing outcomes, and final product features.
