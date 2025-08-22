@@ -16,7 +16,7 @@ The final product delivers **five major feature enhancements** compared to MapMy
 
 ### 🎨 Figma Prototype
 
-Before moving into development, I created wireframes and then built a fully interactive prototype in [Figma](https://www.figma.com/).  
+Before moving into development, I created wireframes and then built a fully interactive prototype in **Figma**.  
 
 🔗 [Figma Prototype](https://www.figma.com/design/6BvCH0NM26yDG286LXLDhb/RunVenture---Final-Prototype?node-id=19-286&p=f)  
 
